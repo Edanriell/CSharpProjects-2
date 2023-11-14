@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NCrontab.Console", "NCrontab.Console\NCrontab.Console.csproj", "{CFC289EA-E374-4FC2-98E8-7E42C596D0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC289EA-E374-4FC2-98E8-7E42C596D0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC289EA-E374-4FC2-98E8-7E42C596D0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC289EA-E374-4FC2-98E8-7E42C596D0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC289EA-E374-4FC2-98E8-7E42C596D0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D317F3A9-D4DE-4947-BEC1-EF1045676184}
+	EndGlobalSection
+EndGlobal
